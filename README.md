@@ -75,6 +75,91 @@
 
 <br/>
 
+<br/>
+
+<div align="center">
+
+## 🛠️ IDEs & Tools
+
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-121013.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E44C30.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/><br/>
+
+## 🎶 For Relax
+
+<img src="https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube%20Music-FF0000.svg?style=for-the-badge&logo=youtube-music&logoColor=white" />
+<img src="https://img.shields.io/badge/Apple%20Music-F34E68.svg?style=for-the-badge&logo=apple-music&logoColor=white" />
+
+<br/><br/>
+
+## 🖍 Design Tools
+
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+
+<br/><br/>
+
+## 📘 Learn On
+
+<img src="https://img.shields.io/badge/Stackoverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wikipedia-000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-35914C.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+
+<br/><br/>
+
+<details>
+<summary><h3>💻 Applications</h3></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white" />
+<img src="https://img.shields.io/badge/Mega-D90007.svg?style=for-the-badge&logo=mega&logoColor=white" />
+<img src="https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoft-onedrive&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+
+</details>
+
+<br/>
+
+<details>
+<summary><h3>💻 Operating Systems</h3></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%2011-0079d5.svg?style=for-the-badge&logo=windows-11&logoColor=white" />
+
+</details>
+
+</div>
+
+<br/>
+
 ## 
 
 <p align="center">
