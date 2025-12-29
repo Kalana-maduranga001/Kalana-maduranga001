@@ -13,21 +13,6 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-maduranga001&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalana-maduranga001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-maduranga001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Alternative Stats (if above doesn't work) -->
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Summary" />
 </div>
 
