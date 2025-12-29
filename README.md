@@ -125,9 +125,7 @@
 
 <br/><br/>
 
-<details>
-<summary><h3>💻 Applications</h3></summary>
-<br/>
+## 💻 Applications
 
 <img src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -140,21 +138,15 @@
 <img src="https://img.shields.io/badge/Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
-</details>
+<br/><br/>
 
-<br/>
-
-<details>
-<summary><h3>💻 Operating Systems</h3></summary>
-<br/>
+## 💻 Operating Systems
 
 <img src="https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=ios&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows%2011-0079d5.svg?style=for-the-badge&logo=windows-11&logoColor=white" />
-
-</details>
 
 </div>
 
