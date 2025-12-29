@@ -3,7 +3,7 @@
 # 👨‍💻 Hi, I'm Kalana  
 *Software Engineering Undergraduate at University of Colombo School of Computing*
 
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/Kalana-maduranga001)
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/Kalana-maduranga001.svg)](https://user-badge.committers.top/sri_lanka/Kalana-maduranga001)
   &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kalana-maduranga-353018332/)
   &nbsp;&nbsp;
@@ -13,15 +13,15 @@
 <br/>
 
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Kalana-maduranga001&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-maduranga001&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalana-maduranga001&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalana-maduranga001&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-maduranga001&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-maduranga001&theme=dark&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <br/>
@@ -199,4 +199,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
