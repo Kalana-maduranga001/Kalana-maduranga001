@@ -4,7 +4,7 @@
 
 # Hey There!
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="800">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=I'm+Kalana+Maduranga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
