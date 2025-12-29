@@ -40,8 +40,6 @@
   
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak Stats" />
-
 </div>
 
 <br/>
@@ -57,13 +55,13 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Top Languages by Commit" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Top Languages by Repo" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Productive Time" />
 </div>
