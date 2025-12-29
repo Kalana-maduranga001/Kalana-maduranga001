@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kalana+Maduranga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" />
+
+# Hey There!
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=I'm+Kalana+Maduranga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -34,6 +40,14 @@
   
 ## 📊 GitHub Statistics
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Summary" />
 
 </div>
@@ -41,9 +55,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalana-maduranga001&theme=tokyonight" height="180" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalana-maduranga001&theme=tokyonight" height="180" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Most Used Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Repos per Language" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Productive Time" />
 </div>
 
 <br/>
