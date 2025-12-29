@@ -1,19 +1,41 @@
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kalana+Maduranga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
   
-# 👨‍💻 Hi, I'm Kalana  
-*Software Engineering Undergraduate at University of Colombo School of Computing*
+### 👨‍💻 Software Engineering Undergraduate at University of Colombo School of Computing
 
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/Kalana-maduranga001.svg)](https://user-badge.committers.top/sri_lanka/Kalana-maduranga001)
   &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kalana-maduranga-353018332/)
   &nbsp;&nbsp;
   [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://kalana-one.vercel.app/)
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Summary" />
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+  
+## 📊 GitHub Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Summary" />
+
 </div>
 
 <br/>
@@ -25,6 +47,38 @@
 </div>
 
 <br/>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 💻 Tech Stack & Skills
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+
+</div>
+
 <br/>
 
 <div align="center">
@@ -154,6 +208,12 @@
 
 ## 
 
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💬 Let's Connect!
+
 <p align="center">
   <em>Feel free to contact me for opportunities, collaboration, or to say hi!</em>
 </p>
@@ -191,3 +251,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
