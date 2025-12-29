@@ -40,6 +40,8 @@
   
 ## 📊 GitHub Statistics
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="GitHub Streak Stats" />
+
 </div>
 
 <br/>
