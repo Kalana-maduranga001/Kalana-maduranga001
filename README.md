@@ -22,6 +22,10 @@
   &nbsp;&nbsp;
   [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://kalana-one.vercel.app/)
   
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kalana-maduranga001&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
+  
 </div>
 
 <br/>
