@@ -70,18 +70,6 @@
 <br/>
 
 <div align="center">
-
-### 📈 Additional Stats
-
-<a href="https://github.com/Kalana-maduranga001">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Details"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
