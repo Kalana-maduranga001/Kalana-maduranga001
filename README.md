@@ -50,24 +50,26 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Summary" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kalana-maduranga001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Top Languages by Commit" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-maduranga001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Top Languages by Repo" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalana-maduranga001&theme=tokyonight" height="200" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-maduranga001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalana-maduranga001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -281,6 +283,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
-
-
-https://github.com/Kalana-maduranga001 this github readme file not working GitHub Statistics table s 
