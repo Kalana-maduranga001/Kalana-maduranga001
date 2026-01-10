@@ -49,32 +49,33 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/Kalana-maduranga001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kalana-maduranga001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kalana-maduranga001&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</div>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kalana-maduranga001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-maduranga001&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalana-maduranga001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kalana-maduranga001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+### 📈 Additional Stats
 
-</div>
-
-<br/>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalana-maduranga001&theme=tokyo-night&hide_border=true&area=true)
+<a href="https://github.com/Kalana-maduranga001">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Details"/>
+</a>
 
 </div>
 
