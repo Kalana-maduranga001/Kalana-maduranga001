@@ -50,7 +50,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalana-maduranga001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Kalana-maduranga001)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kalana-maduranga001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-maduranga001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)](https://github.com/Kalana-maduranga001)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kalana-maduranga001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=BF91F3&currStreakNum=38BDAE&sideNums=38BDAE&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=38BDAE)](https://github.com/Kalana-maduranga001)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalana-maduranga001&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd)](https://github.com/Kalana-maduranga001)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalana-maduranga001&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
