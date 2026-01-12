@@ -52,7 +52,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Kalana-maduranga001&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-maduranga001&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
 <br/>
