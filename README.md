@@ -52,7 +52,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=Kalana-maduranga001&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
