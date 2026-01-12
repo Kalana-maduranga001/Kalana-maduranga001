@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=I'm+Kalana+Maduranga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
@@ -53,7 +52,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-maduranga001&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Kalana-maduranga001&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
