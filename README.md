@@ -1,8 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800">
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://shan-ganegoda.io)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=I'm+Kalana+Maduranga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-
-</div>
 
 <br/>
 
