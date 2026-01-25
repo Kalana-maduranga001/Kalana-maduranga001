@@ -18,6 +18,7 @@
 ![Followers](https://img.shields.io/github/followers/Kalana-maduranga001?label=Followers&style=flat-square&color=6e5494)
 ![Status](https://img.shields.io/badge/Status-Actively_Learning-success?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=flat-square)
+
 </div>
 
 <br/>
