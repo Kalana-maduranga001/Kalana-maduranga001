@@ -14,10 +14,16 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://kalana-one.vercel.app/)
   
   <br/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kalana-maduranga001&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Kalana-maduranga001?label=Followers&style=flat-square&color=6e5494)
-![Status](https://img.shields.io/badge/Status-Actively_Learning-success?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=flat-square)
+  
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kalana-maduranga001&style=flat-square&color=36BCF7" />
+<img src="https://img.shields.io/github/followers/Kalana-maduranga001?label=Followers&style=flat-square&color=6e5494" />
+<img src="https://img.shields.io/badge/Status-Actively_Learning-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=flat-square" />
+
+</div>
+
 
 </div>
 
