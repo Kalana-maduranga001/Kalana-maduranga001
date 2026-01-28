@@ -24,13 +24,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Kalana-maduranga001&theme=transparent&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 </div>
 
